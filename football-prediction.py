@@ -1,0 +1,1 @@
+print("Coucou, je suis prêt à prédire des matchs de foot !")
